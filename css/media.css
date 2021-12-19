@@ -1,0 +1,371 @@
+@media (max-width:1024px) {
+    .container {
+        width: 950px;
+    }
+    .navbar {
+        display: flex;
+    }
+    .feedback {
+        display: flex;
+        margin-left: 150px;
+    }
+
+    .link {
+        margin: 5px ;
+    }
+    .line {
+        margin-top: 8px;
+    }
+    .tele{
+        width: 15px;
+        height: 20px;
+        margin-top: 8px;
+
+    }
+
+    .img123 {
+        width: 350px;
+        height: 350px;
+    }
+
+    .ready {
+        font-size: 45px;
+    }
+
+    .title2 {
+        width: 200px;
+        font-weight: 300;
+        font-size: 10px;
+    }
+
+    .Basic1 {
+        display: flex;
+        margin-top: 50px;
+        margin-left: 150px;
+    }
+    .Premium{
+        margin-top: -40px;
+        margin-left: 700px;
+
+    }
+    .long__line1{
+        margin-left: 30px;
+        width: 350px;
+        height: 10px;
+    }
+    .long-line{
+        margin-top: -50px;
+        margin-left: -85px;
+        width: 350px;
+        height: 10px;
+    }
+    .long__line2{
+        margin-left: 30px;
+        width: 450px;
+        height: 10px;
+        border-radius: 20px;
+    }
+    .block11{
+        margin-left: 320px;
+    }
+    .block22 {
+        margin-left: 640px;
+    }
+}
+/*-----------------------------------*/
+@media (max-width:768px) {
+    .container {
+        width: 700px;
+    }
+
+    .navbar {
+        margin-left: 64px;
+    }
+
+    .feedback {
+        display: flex;
+        margin-left: 20px;
+    }
+
+    .hero_title {
+        width: 308px;
+        font-size: 34px;
+    }
+
+    .img123 {
+        width: 250px;
+        height: 250px;
+    }
+
+    #hero {
+        margin-top: 36px;
+    }
+
+    .primer-logo {
+        width: 100px;
+        height: 100px;
+    }
+    .primer_title {
+        font-weight: 800;
+        font-size: 25px;
+    }
+    .primer__title {
+        font-size: 15px;
+    }
+    .primer_items {
+        margin-top: 30px;
+    }
+    .hero__desc {
+        width: 400px;
+        font-size: 12px;
+    }
+    .img1{
+        width: 65px;
+        height: 65px;
+    }
+    .title11 {
+        font-size: 13px;
+    }
+    .title2 {
+        width: 150px;
+        font-size: 10px;
+    }
+    .ready {
+        font-size: 30px;
+    }
+
+    .Basic1 {
+        margin-top: 50px;
+        margin-left: 120px;
+        font-size: 22px;
+    }
+    .Premium{
+        margin-top: -40px;
+        margin-left: 500px;
+        font-size: 22px;
+    }
+    .long__line1{
+        margin-left: 30px;
+        width: 250px;
+        height: 8px;
+    }
+    .long-line{
+        margin-top: -50px;
+        margin-left: -90px;
+        width: 250px;
+        height: 8px;
+    }
+    .long__line2{
+        margin-left: 30px;
+        width: 450px;
+        height: 10px;
+        border-radius: 20px;
+    }
+    .block00{
+        margin-top: 50px;
+        margin-right: -500px;
+        position: absolute;
+        width: 240px;
+        height: 716px;
+    }
+    .block11 {
+        margin-top: 50px;
+        margin-left: 245px;
+        width: 240px;
+        height: 716px;
+    }
+    .block22 {
+        margin-left: 490px;
+        width: 240px;
+        height: 716px;
+    }
+    .starter__text{
+        width: 150px;
+        height: 40px;
+    }
+    .this{
+        margin-top: 8px;
+    }
+}
+/*-----------------------------------*/
+@media (max-width:576px) {
+    .container {
+        width: 500px;
+    }
+    .link{
+        display: none;
+    }
+    .line{
+        display: none;
+    }
+    .tele{
+        display: none;
+    }
+
+    .burger__menu{
+        display: block;
+    }
+    .hero_title {
+        font-size: 24px;
+        line-height: 50px;
+
+    }
+    .hero__desc {
+        width: 288px;
+        font-size: 10px;
+        margin-top: 0;
+        margin-bottom: 25px;
+    }
+    .img123 {
+        width: 200px;
+        height: 200px;
+    }
+    .hero_btn{
+        margin-top: 50px;
+    }
+    .btn_greate {
+        font-size: 8px;
+
+    }
+    .btn_choose {
+        font-size: 8px;
+        margin-left: 15px;
+    }
+    .primer_title {
+        font-size: 12px;
+        line-height: 28px;
+    }
+    .primer-logo {
+        width: 80px;
+        height: 80px;
+    }
+    .primer__logo2 {
+        margin-top: 0;
+    }
+
+    .primer__title {
+        font-size: 10px;
+        line-height: 22px;
+    }
+    .img1{
+        width: 40px;
+        height: 40px;
+    }
+    .title11 {
+         font-size: 9px;
+
+    }
+    .title2 {
+        width: 130px;
+        font-size: 8px;
+    }
+    .ready {
+        font-size: 20px;
+    }
+    .choose{
+        font-size: 18px;
+    }
+    .Monthly{
+        font-size: 18px;
+    }
+    .span{
+        margin-top: 3px;
+        width: 53px;
+        height: 23px;
+    }
+    .i{
+        top: 1px;
+        left: 1px;
+        width: 20px;
+        height: 20px;
+    }
+    .line1{
+        margin-top: 5px;
+    }
+    .Basic1 {
+        margin-top: 50px;
+        margin-left: 120px;
+        font-size: 15px;
+    }
+    .Premium{
+        margin-top: -40px;
+        margin-left: 400px;
+        font-size: 15px;
+    }
+    .long__line1{
+        margin-left: 60px;
+        width: 150px;
+        height: 5px;
+    }
+    .long-line{
+        margin-top: -51px;
+        margin-left: -15px;
+        width: 150px;
+        height: 5px;
+    }
+    .long__line2{
+        margin-left: 60px;
+        width: 450px;
+        height: 10px;
+        border-radius: 20px;
+    }
+    .block00{
+        margin-top: 50px;
+        margin-right: -500px;
+        width: 150px;
+        height: 516px;
+    }
+    .block11 {
+        margin-top: 50px;
+        margin-left: 160px;
+        width: 150px;
+        height: 516px;
+    }
+    .block22 {
+        margin-left: 320px;
+        width: 150px;
+        height: 516px;
+    }
+    .star{
+        font-weight: 600;
+        font-size: 20px;
+        margin-left: 5px;
+    }
+    .startt{
+        margin-top: 56px;
+    }
+    .starter__iteams{
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+    .with{
+        margin-top: 10px;
+        font-size: 8px;
+    }
+    .procent{
+        margin-top: 20px;
+        font-size: 25px;
+    }
+    .procent1{
+        font-size: 10px;
+    }
+    .this{
+        margin-top: 5px;
+    }
+    .starter__text{
+        margin-left: 5px;
+        width: 130px;
+        height: 30px;
+        border: 1px solid #000000;
+    }
+    .galichka{
+        margin-top: 20px;
+        margin-left: 5px;
+        font-size: 10px;
+    }
+    .img_gala{
+        width: 10px;
+        height: 10px;
+    }
+}
+
